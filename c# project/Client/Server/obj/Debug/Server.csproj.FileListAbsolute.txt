@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\c# project\Client\Server\bin\Debug\Server.exe.config
+C:\Users\asus\Desktop\c# project\Client\Server\bin\Debug\Server.exe
+C:\Users\asus\Desktop\c# project\Client\Server\bin\Debug\Server.pdb
+C:\Users\asus\Desktop\c# project\Client\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\c# project\Client\Server\obj\Debug\Server.Server.resources
+C:\Users\asus\Desktop\c# project\Client\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\asus\Desktop\c# project\Client\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\c# project\Client\Server\obj\Debug\Server.exe
+C:\Users\asus\Desktop\c# project\Client\Server\obj\Debug\Server.pdb

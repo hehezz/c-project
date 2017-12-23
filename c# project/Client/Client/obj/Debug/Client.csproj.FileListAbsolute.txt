@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\c# project\Client\Client\bin\Debug\Client.exe.config
+C:\Users\asus\Desktop\c# project\Client\Client\bin\Debug\Client.exe
+C:\Users\asus\Desktop\c# project\Client\Client\bin\Debug\Client.pdb
+C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.exe
+C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.pdb
+C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
