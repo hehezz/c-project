@@ -36,5 +36,10 @@ namespace Client
             socketSend.Connect(point);
             ShowMsg("连接成功");
         }
+
+        public void Test()
+        {
+            Console.WriteLine("xasdfq");
+        }
     }
 }

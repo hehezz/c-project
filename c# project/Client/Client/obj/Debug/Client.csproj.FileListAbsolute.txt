@@ -7,3 +7,12 @@ C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.csproj.GenerateR
 C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.exe
 C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.pdb
 C:\Users\asus\Desktop\c# project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Develop\c# project\Client\Client\bin\Debug\Client.exe.config
+D:\Develop\c# project\Client\Client\bin\Debug\Client.exe
+D:\Develop\c# project\Client\Client\bin\Debug\Client.pdb
+D:\Develop\c# project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Develop\c# project\Client\Client\obj\Debug\Client.Client.resources
+D:\Develop\c# project\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Develop\c# project\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Develop\c# project\Client\Client\obj\Debug\Client.exe
+D:\Develop\c# project\Client\Client\obj\Debug\Client.pdb
